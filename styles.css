@@ -65,16 +65,12 @@ body {
   margin-bottom: 15px;
 }
 
-h5.card-title {
-  font-size: calc(1.2rem + 0.5vw);
-  color: #800080;
-}
-
 .card-title {
   font-weight: bold;
   color: #800080;
   margin-bottom: 10px;
   text-shadow: 0 0 8px rgba(138, 43, 226, 0.7);
+  font-size: calc(1.2rem + 0.5vw);
 }
 
 .btn-custom {
